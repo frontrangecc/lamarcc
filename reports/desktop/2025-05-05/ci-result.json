@@ -1,0 +1,1602 @@
+[
+  {
+    "path": "/",
+    "score": 0.81,
+    "performance": 0.48,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.85
+  },
+  {
+    "path": "/115-earn-academic-honors-this-fall-at-lamar-community-college/",
+    "score": 0.85,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/2021-year-in-review-at-lamar-community-college/",
+    "score": 0.84,
+    "performance": 0.54,
+    "accessibility": 0.93,
+    "best-practices": 0.96,
+    "seo": 0.92
+  },
+  {
+    "path": "/30-lcc-students-inducted-into-phi-theta-kappa/",
+    "score": 0.85,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/78th-lamar-community-college-commencement-to-be-held-on-may-6/",
+    "score": 0.85,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/a-message-from-dr-linda-lujan/",
+    "score": 0.84,
+    "performance": 0.55,
+    "accessibility": 0.89,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/about-lcc/",
+    "score": 0.79,
+    "performance": 0.54,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/about-lcc/alumni-relations/alumni-registry/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/about-lcc/commitment-to-diversity/",
+    "score": 0.85,
+    "performance": 0.55,
+    "accessibility": 0.91,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/about-lcc/communityinvolvement/",
+    "score": 0.81,
+    "performance": 0.55,
+    "accessibility": 0.85,
+    "best-practices": 1,
+    "seo": 0.85
+  },
+  {
+    "path": "/about-lcc/economic-impact/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/about-lcc/facts-figures/",
+    "score": 0.85,
+    "performance": 0.54,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/about-lcc/innovate-2/about-the-ims/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/about-lcc/innovate-2/hours-course-schedule/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/about-lcc/innovate-2/offerings-rates/",
+    "score": 0.85,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/about-lcc/innovate/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/about-lcc/innovate/hours-course-schedule/",
+    "score": 0.79,
+    "performance": 0.54,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/about-lcc/innovate/meet-the-makers/",
+    "score": 0.84,
+    "performance": 0.55,
+    "accessibility": 0.9,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/about-lcc/innovate/offerings-rates/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/about-lcc/invest-in-lcc/invest-community-college/",
+    "score": 0.79,
+    "performance": 0.55,
+    "accessibility": 0.9,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/about-lcc/maps/",
+    "score": 0.83,
+    "performance": 0.53,
+    "accessibility": 0.88,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/about-lcc/message-from-the-president/",
+    "score": 0.77,
+    "performance": 0.45,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/about-lcc/presidents-community-circle/",
+    "score": 0.79,
+    "performance": 0.54,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/about/",
+    "score": 0.84,
+    "performance": 0.55,
+    "accessibility": 0.9,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/academic_honor_lists/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics-2/",
+    "score": 0.86,
+    "performance": 0.56,
+    "accessibility": 0.94,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/",
+    "score": 0.77,
+    "performance": 0.55,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.85
+  },
+  {
+    "path": "/academics/academic-advising/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/bridgetobachelors/",
+    "score": 0.85,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/community-education/",
+    "score": 0.8,
+    "performance": 0.57,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/community-education/career-training/",
+    "score": 0.79,
+    "performance": 0.54,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/community-education/personal-enrichment/",
+    "score": 0.79,
+    "performance": 0.54,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/community-education/professional-development/",
+    "score": 0.85,
+    "performance": 0.54,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/continuing-education-training/",
+    "score": 0.85,
+    "performance": 0.56,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/continuing-education-training/ascent/",
+    "score": 0.79,
+    "performance": 0.54,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/continuing-education-training/ce-resources/",
+    "score": 0.79,
+    "performance": 0.54,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/continuing-education-training/getting-started-with-concurrent-enrollment/",
+    "score": 0.79,
+    "performance": 0.54,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/degrees-programs-2/",
+    "score": 0.85,
+    "performance": 0.55,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/degrees-programs/certificate-programs/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/distancelearningsites/",
+    "score": 0.77,
+    "performance": 0.55,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.85
+  },
+  {
+    "path": "/academics/graduation/",
+    "score": 0.83,
+    "performance": 0.56,
+    "accessibility": 0.9,
+    "best-practices": 1,
+    "seo": 0.85
+  },
+  {
+    "path": "/academics/occupational-programs/agriculture/",
+    "score": 0.79,
+    "performance": 0.55,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/occupational-programs/business/",
+    "score": 0.85,
+    "performance": 0.55,
+    "accessibility": 0.91,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/occupational-programs/cosmetology-barber-2/",
+    "score": 0.78,
+    "performance": 0.55,
+    "accessibility": 0.89,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/occupational-programs/cosmetology-barber-2/lcc-salon/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/occupational-programs/criminal-justice/",
+    "score": 0.85,
+    "performance": 0.55,
+    "accessibility": 0.91,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/occupational-programs/early-childhood-education/",
+    "score": 0.78,
+    "performance": 0.55,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/occupational-programs/horse-training-management/apply-to-htm/",
+    "score": 0.79,
+    "performance": 0.54,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/occupational-programs/horse-training-management/equine-club/",
+    "score": 0.83,
+    "performance": 0.52,
+    "accessibility": 0.89,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/occupational-programs/horse-training-management/horse-program-faqs/",
+    "score": 0.79,
+    "performance": 0.53,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/occupational-programs/horse-training-management/htm-faculty/",
+    "score": 0.78,
+    "performance": 0.54,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/occupational-programs/horse-training-management/htm-student-questionnaire/",
+    "score": 0.83,
+    "performance": 0.53,
+    "accessibility": 0.91,
+    "best-practices": 0.96,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/occupational-programs/horse-training-management/htm-tack-list/",
+    "score": 0.78,
+    "performance": 0.56,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/occupational-programs/horse-training-management/htm-testimonials/",
+    "score": 0.79,
+    "performance": 0.55,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/occupational-programs/horse-training-management/htm-testimonials/rodeo-team/",
+    "score": 0.84,
+    "performance": 0.55,
+    "accessibility": 0.89,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/occupational-programs/horse-training-management/lamar-legacy-horse-sale/",
+    "score": 0.78,
+    "performance": 0.53,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/occupational-programs/nursing/",
+    "score": 0.79,
+    "performance": 0.54,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/occupational-programs/nursing/nlnac-accreditation/",
+    "score": 0.84,
+    "performance": 0.53,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/occupational-programs/nursing/nursing-admission/",
+    "score": 0.76,
+    "performance": 0.52,
+    "accessibility": 0.87,
+    "best-practices": 0.78,
+    "seo": 0.85
+  },
+  {
+    "path": "/academics/occupational-programs/nursing/nursing-faculty/",
+    "score": 0.78,
+    "performance": 0.53,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/occupational-programs/nursing/nursing-photo-gallery/",
+    "score": 0.81,
+    "performance": 0.53,
+    "accessibility": 0.88,
+    "best-practices": 0.96,
+    "seo": 0.85
+  },
+  {
+    "path": "/academics/occupational-programs/nursing/nursing-program-description/",
+    "score": 0.78,
+    "performance": 0.53,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/occupational-programs/nursing/nursing-programs-application/",
+    "score": 0.78,
+    "performance": 0.52,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/occupational-programs/precision-agriculture/",
+    "score": 0.84,
+    "performance": 0.55,
+    "accessibility": 0.88,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/academics/occupational-programs/renewable-energy-technologies/",
+    "score": 0.76,
+    "performance": 0.55,
+    "accessibility": 0.86,
+    "best-practices": 0.78,
+    "seo": 0.85
+  },
+  {
+    "path": "/academics/transcript-request/",
+    "score": 0.79,
+    "performance": 0.55,
+    "accessibility": 0.92,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/accelerated-online-courses-available-this-fall-at-lamar-community-college/",
+    "score": 0.85,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/accreditation-renewed-for-the-lcc-nursing-department/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/addictions-counseling-program-offered-through-lcc-this-summer/",
+    "score": 0.8,
+    "performance": 0.56,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/adjunct-faculty/",
+    "score": 0.85,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/admission/",
+    "score": 0.8,
+    "performance": 0.57,
+    "accessibility": 0.92,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/admission/alternative-credit-project/",
+    "score": 0.78,
+    "performance": 0.5,
+    "accessibility": 0.92,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/admission/fall-2020-3/",
+    "score": 0.78,
+    "performance": 0.55,
+    "accessibility": 0.89,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/admission/international-students/",
+    "score": 0.85,
+    "performance": 0.53,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/admission/international-students/international-student-admissions/",
+    "score": 0.79,
+    "performance": 0.55,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/admission/military-students/",
+    "score": 0.84,
+    "performance": 0.55,
+    "accessibility": 0.89,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/admission/new-student-orientation/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/admission/request-more-information/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/admission/transfer-to-lcc/",
+    "score": 0.79,
+    "performance": 0.54,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/admission/visit-campus/",
+    "score": 0.85,
+    "performance": 0.55,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/admissions/",
+    "score": 0.79,
+    "performance": 0.55,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/alumni-spotlight-phil-rawers/",
+    "score": 0.78,
+    "performance": 0.55,
+    "accessibility": 0.89,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/arosha-loku-umagiliyage-joins-lamar-community-college-precision-agriculture-program/",
+    "score": 0.85,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/art-craft-and-food-fair/",
+    "score": 0.75,
+    "performance": 0.37,
+    "accessibility": 0.91,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/art-craft-food-festival-returns-to-lcc-on-november-10/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/art-craft-food-festival-returns-to-lcc-on-november-11/",
+    "score": 0.85,
+    "performance": 0.56,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/athletics/",
+    "score": 0.78,
+    "performance": 0.51,
+    "accessibility": 0.92,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/athletics/runnin-lopes-booster-club/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/attorney-generals-office-to-expand-grant-to-revitalize-rural-housing-support-trades-programs-in-southern-colorado/",
+    "score": 0.84,
+    "performance": 0.55,
+    "accessibility": 0.9,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/benjamin-griffin-announced-as-new-director-of-athletics-wellness-center/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/blog/",
+    "score": 0.74,
+    "performance": 0.34,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/boots-bling-blessings-returns-to-lamar-community-college-on-oct-16/",
+    "score": 0.85,
+    "performance": 0.56,
+    "accessibility": 0.9,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/calendar/",
+    "score": 0.71,
+    "performance": 0.36,
+    "accessibility": 0.9,
+    "best-practices": 0.74,
+    "seo": 0.85
+  },
+  {
+    "path": "/call-for-vendors-for-the-lcc-art-craft-food-festival/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/campus-closure-processes/",
+    "score": 0.85,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/campus-visit-form-test/",
+    "score": 0.74,
+    "performance": 0.33,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/cart/",
+    "score": 0.74,
+    "performance": 0.33,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/cashier/",
+    "score": 0.84,
+    "performance": 0.53,
+    "accessibility": 0.92,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/catalog-2/",
+    "score": 0.74,
+    "performance": 0.33,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/cccs-lcc-launches-new-guaranteed-admission-program-with-colorado-universities/",
+    "score": 0.76,
+    "performance": 0.54,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.85
+  },
+  {
+    "path": "/cccs-presidential-search-community-forum-to-be-held-at-lcc/",
+    "score": 0.85,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/cdl-training-to-be-offered-this-september/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/celebrate-super-bowl-thursday-at-the-lcc-cosmetology-salon/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/central-university-soccer-championship/",
+    "score": 0.84,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.96,
+    "seo": 0.92
+  },
+  {
+    "path": "/checkout/",
+    "score": 0.74,
+    "performance": 0.33,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/co-ags-office-awards-1-66-million-to-lcc-for-colorado-partnership-for-education-and-rural-revitalization-coperr-project/",
+    "score": 0.78,
+    "performance": 0.55,
+    "accessibility": 0.89,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/college-goal-sunday-set-for-november-12/",
+    "score": 0.85,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/colorado-community-college-system-chancellor-joe-garcia-to-speak-at-lamar-community-colleges-80th-commencement/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/come-red-white-blue-at-the-lcc-cosmetology-salon/",
+    "score": 0.79,
+    "performance": 0.56,
+    "accessibility": 0.9,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/coming-soon-map-center-student-union-space/",
+    "score": 0.8,
+    "performance": 0.34,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/community-colleges-generate-nearly-6-billion-for-colorado-economy-in-2016/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/community-invited-to-meet-new-lcc-vice-president-dr-lisa-schlotterhausen/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/community-invited-to-share-input-regarding-willow-creek-nature-trail/",
+    "score": 0.85,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/communityblockparty/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/contact-lopescares/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.94,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/contact/",
+    "score": 0.8,
+    "performance": 0.33,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/cook-and-snyder-honored-as-lccs-distinguished-alumni/",
+    "score": 0.8,
+    "performance": 0.56,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/coperr-press-release/",
+    "score": 0.78,
+    "performance": 0.56,
+    "accessibility": 0.89,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/coperr-program/",
+    "score": 0.84,
+    "performance": 0.55,
+    "accessibility": 0.9,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/cory-morris-honored-as-rising-stars-of-lamar-community-college/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/cosi-scholarship-deadline-extended-to-august-20/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/covid/",
+    "score": 0.83,
+    "performance": 0.49,
+    "accessibility": 0.89,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/curabitur-blandit-tempus-porttitor/",
+    "score": 0.79,
+    "performance": 0.55,
+    "accessibility": 0.92,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/dr-kim-hunter-reed-to-speak-at-lamar-community-college-commencement/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/dr-linda-lujan-among-community-college-of-denver-honorees-ccd-honors-three-community-leaders-with-dr-mlk-award-recognition/",
+    "score": 0.85,
+    "performance": 0.56,
+    "accessibility": 0.9,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/dr-lisa-schlotterhausen-selected-a-new-vice-president-at-lcc/",
+    "score": 0.79,
+    "performance": 0.56,
+    "accessibility": 0.9,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/dr-rosana-reyes-named-president-of-lamar-community-college/",
+    "score": 0.79,
+    "performance": 0.57,
+    "accessibility": 0.89,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/early-childhood-education/",
+    "score": 0.85,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/encampment/",
+    "score": 0.79,
+    "performance": 0.55,
+    "accessibility": 0.9,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/enroll-in-online-classes-get-money-for-school-at-lamar-community-college/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/equine-students-showcase-work-compete-for-scholarships/",
+    "score": 0.85,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/events-template/",
+    "score": 0.74,
+    "performance": 0.33,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/experience-the-history-and-excitement-of-the-1800s-at-lccs-frontier-history-encampment/",
+    "score": 0.77,
+    "performance": 0.55,
+    "accessibility": 0.88,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/fall-semester-starts-august-20-at-lamar-community-college/",
+    "score": 0.85,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/fall2020/",
+    "score": 0.75,
+    "performance": 0.44,
+    "accessibility": 0.9,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/final-exam-schedule/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/first-students-graduate-lcc-with-construction-trades-associate-of-applied-sciences-degree/",
+    "score": 0.85,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/five-micro-credential-pathways-in-behavioral-health-coming-to-lcc-this-fall/",
+    "score": 0.8,
+    "performance": 0.56,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/fonts-and-sizing-test-page/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/food-pantry-food-access-program/",
+    "score": 0.85,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/former-ag-dept-chair-greg-cash-returns-to-serve-as-interim-dean-of-instruction-at-lamar-community-college/",
+    "score": 0.79,
+    "performance": 0.55,
+    "accessibility": 0.92,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/four-lamar-community-college-employees-honored-at-colorado-pera-sponsored-event/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/free-tax-help-returns-to-lcc/",
+    "score": 0.79,
+    "performance": 0.57,
+    "accessibility": 0.9,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/frontier-history-encampment-returns-to-lcc/",
+    "score": 0.85,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/full-width-page/",
+    "score": 0.79,
+    "performance": 0.55,
+    "accessibility": 0.92,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/full-width-post/",
+    "score": 0.79,
+    "performance": 0.55,
+    "accessibility": 0.92,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/gallery/",
+    "score": 0.85,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/generous-donors-fund-new-gym-floor-at-lcc/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/girls-in-the-middle-conference-set-for-march-2/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/girls-in-the-middle-registration/",
+    "score": 0.81,
+    "performance": 0.39,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/girls-in-the-middle-returns-to-lcc-campus-on-march-3/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/girls-in-the-middle-returns-to-lcc-campus-on-march-4/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/gonzales-honored-as-lccs-distinguished-alumna/",
+    "score": 0.85,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/good-wood-club-event-benefits-lamar-community-college/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/governor-polis-and-arnold-ventures-announce-20-million-partnership-to-boost-economic-opportunity-strengthen-colorados-workforce-expand-education/",
+    "score": 0.79,
+    "performance": 0.56,
+    "accessibility": 0.9,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/govtownhall2017/",
+    "score": 0.85,
+    "performance": 0.56,
+    "accessibility": 0.9,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/graduation-2021/",
+    "score": 0.79,
+    "performance": 0.55,
+    "accessibility": 0.9,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/graduation-ceremony-awards-17/",
+    "score": 0.74,
+    "performance": 0.34,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/graduation2020/",
+    "score": 0.84,
+    "performance": 0.55,
+    "accessibility": 0.9,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/grand-opening-set-for-lccs-innovate-make-space/",
+    "score": 0.78,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.74,
+    "seo": 0.92
+  },
+  {
+    "path": "/hans-friederichs-selected-as-construction-trades-faculty-at-lamar-community-college/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/helpful-immigration-resources-in-colorado/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/hemp-road-show-to-be-held-at-lamar-community-college/",
+    "score": 0.84,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.96,
+    "seo": 0.92
+  },
+  {
+    "path": "/hemp-road-trip-comes-to-the-lcc-campus/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/homepage-2-2/",
+    "score": 0.8,
+    "performance": 0.34,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/homepage-2/",
+    "score": 0.74,
+    "performance": 0.33,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/homepage-3/",
+    "score": 0.74,
+    "performance": 0.33,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/homepage/",
+    "score": 0.74,
+    "performance": 0.33,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/important-information-for-transfer-students/",
+    "score": 0.84,
+    "performance": 0.56,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.85
+  },
+  {
+    "path": "/innovate-make-space-gets-grant-funding-boost/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/innovate-make-space-hosts-grand-opening-celebration/",
+    "score": 0.85,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/innovate-make-space-now-open-at-lcc/",
+    "score": 0.8,
+    "performance": 0.56,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/innovate-make-space-starts-to-take-shape/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/integer-posuere-erat-a-ante-venenatis-dapibus-posuere-velit-aliquet/",
+    "score": 0.85,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/jedcampus/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/join-lamar-community-college-for-lopes-day-on-april-14-2022/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/join-the-future-of-healthcare/",
+    "score": 0.79,
+    "performance": 0.56,
+    "accessibility": 0.9,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/kristine-may-scholarship/",
+    "score": 0.84,
+    "performance": 0.55,
+    "accessibility": 0.9,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/la-colonia-project-continues-at-lamar-community-college/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/lamar-community-college-announces-alternate-plans-for-its-81st-annual-commencement-ceremony/",
+    "score": 0.85,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/lamar-community-college-announces-fall-2020-safe-return-to-campus-plan/",
+    "score": 0.78,
+    "performance": 0.55,
+    "accessibility": 0.88,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/lamar-community-college-announces-new-ranch-horse-team/",
+    "score": 0.79,
+    "performance": 0.56,
+    "accessibility": 0.89,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/lamar-community-college-announces-spring-2021-safe-return-to-campus-plan/",
+    "score": 0.85,
+    "performance": 0.56,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/lamar-community-college-announces-the-hiring-of-new-faculty-and-staff/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/lamar-community-college-announces-the-spring-2021-honors-list/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/lamar-community-college-athletics-awarded-2000-grant-to-add-mens-and-womens-soccer-programs/",
+    "score": 0.84,
+    "performance": 0.56,
+    "accessibility": 0.89,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/lamar-community-college-awarded-grant-that-will-aid-in-pandemic-recovery-and-educational-equity-efforts/",
+    "score": 0.78,
+    "performance": 0.49,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/lamar-community-college-celebrates-2017-graduates/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/lamar-community-college-celebrates-2018-graduates/",
+    "score": 0.84,
+    "performance": 0.56,
+    "accessibility": 0.93,
+    "best-practices": 0.96,
+    "seo": 0.92
+  },
+  {
+    "path": "/lamar-community-college-celebrates-80th-annual-commencement/",
+    "score": 0.8,
+    "performance": 0.56,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/lamar-community-college-debuts-new-virtual-bookstore/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/lamar-community-college-earns-grant-for-mobile-learning-lab/",
+    "score": 0.85,
+    "performance": 0.56,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/lamar-community-college-employees-honored-by-state-system-in-virtual-ceremony/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/lamar-community-college-expands-art-offerings-welcomes-new-instructors/",
+    "score": 0.8,
+    "performance": 0.56,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/lamar-community-college-expands-construction-trades-offerings/",
+    "score": 0.85,
+    "performance": 0.56,
+    "accessibility": 0.93,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/lamar-community-college-extends-scholarship-deadlines/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/lamar-community-college-fills-four-staff-positions/",
+    "score": 0.78,
+    "performance": 0.53,
+    "accessibility": 0.89,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/lamar-community-college-foundations-first-scholarship-celebration-dinner-was-held-on-march-1-2025/",
+    "score": 0.84,
+    "performance": 0.55,
+    "accessibility": 0.89,
+    "best-practices": 1,
+    "seo": 0.92
+  },
+  {
+    "path": "/lamar-community-college-generates-over-41-million-for-local-economy/",
+    "score": 0.8,
+    "performance": 0.56,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  },
+  {
+    "path": "/lamar-community-college-has-hires-chambers-as-head-volleyball-coach/",
+    "score": 0.8,
+    "performance": 0.55,
+    "accessibility": 0.93,
+    "best-practices": 0.78,
+    "seo": 0.92
+  }
+]
