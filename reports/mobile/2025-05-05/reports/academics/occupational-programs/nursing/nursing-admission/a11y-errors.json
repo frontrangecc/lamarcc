@@ -1,0 +1,222 @@
+[
+  {
+    "id": "frame-title",
+    "title": "`<frame>` or `<iframe>` elements do not have a title",
+    "description": "Screen reader users rely on frame titles to describe the contents of frames. [Learn more about frame titles](https://dequeuniversity.com/rules/axe/4.10/frame-title).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "valueType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "valueType": "node"
+          },
+          "label": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-0-IFRAME",
+            "path": "1,HTML,1,BODY,6,DIV,6,FOOTER,0,DIV,0,DIV,0,DIV,0,DIV,0,ASIDE,1,SECTION,0,DIV,1,DIV,0,IFRAME",
+            "selector": "section#text-2 > div.textwidget > div.twocol-one > iframe",
+            "boundingRect": {
+              "top": 2767,
+              "bottom": 2917,
+              "left": 100,
+              "right": 312,
+              "width": 212,
+              "height": 150
+            },
+            "snippet": "<iframe src=\"https://cdn.yoshki.com/iframe/54732.html\" frameborder=\"0\" scrolling=\"no\" data-mce-fragment=\"1\">",
+            "nodeLabel": "section#text-2 > div.textwidget > div.twocol-one > iframe",
+            "explanation": "Fix any of the following:\n  Element has no title attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.text-alternatives",
+          "wcag2a",
+          "wcag412",
+          "section508",
+          "section508.22.i",
+          "TTv5",
+          "TT12.d",
+          "EN-301-549",
+          "EN-9.4.1.2"
+        ]
+      }
+    },
+    "errorCount": 1
+  },
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more about heading order](https://dequeuniversity.com/rules/axe/4.10/heading-order).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "valueType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "valueType": "node"
+          },
+          "label": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-1-H3",
+            "path": "1,HTML,1,BODY,6,DIV,3,DIV,0,DIV,2,DIV,0,MAIN,0,ARTICLE,2,DIV,2,DIV,1,H3",
+            "selector": "article#post-2713 > div.entry-content > div#accordion-1 > h3.accordion-title",
+            "boundingRect": {
+              "top": 1041,
+              "bottom": 1080,
+              "left": 20,
+              "right": 392,
+              "width": 372,
+              "height": 39
+            },
+            "snippet": "<h3 class=\"accordion-title\">",
+            "nodeLabel": "Apply to LCC",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 1
+  },
+  {
+    "id": "image-alt",
+    "title": "Image elements do not have `[alt]` attributes",
+    "description": "Informative elements should aim for short, descriptive alternate text. Decorative elements can be ignored with an empty alt attribute. [Learn more about the `alt` attribute](https://dequeuniversity.com/rules/axe/4.10/image-alt).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "valueType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "valueType": "node"
+          },
+          "label": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-2-IMG",
+            "path": "1,HTML,1,BODY,6,DIV,3,DIV,0,DIV,2,DIV,0,MAIN,0,ARTICLE,2,DIV,1,P,0,IMG",
+            "selector": "article#post-2713 > div.entry-content > p > img.aligncenter",
+            "boundingRect": {
+              "top": 730,
+              "bottom": 983,
+              "left": 20,
+              "right": 392,
+              "width": 372,
+              "height": 253
+            },
+            "snippet": "<img fetchpriority=\"high\" decoding=\"async\" class=\"aligncenter\" src=\"https://lamarcc.edu/wp-content/uploads/2020/05/Nursing-2.png\" width=\"813\" height=\"553\">",
+            "nodeLabel": "article#post-2713 > div.entry-content > p > img.aligncenter",
+            "explanation": "Fix any of the following:\n  Element does not have an alt attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.text-alternatives",
+          "wcag2a",
+          "wcag111",
+          "section508",
+          "section508.22.a",
+          "TTv5",
+          "TT7.a",
+          "TT7.b",
+          "EN-301-549",
+          "EN-9.1.1.1",
+          "ACT"
+        ]
+      }
+    },
+    "errorCount": 1
+  },
+  {
+    "id": "tabindex",
+    "title": "Some elements have a `[tabindex]` value greater than 0",
+    "description": "A value greater than 0 implies an explicit navigation ordering. Although technically valid, this often creates frustrating experiences for users who rely on assistive technologies. [Learn more about the `tabindex` attribute](https://dequeuniversity.com/rules/axe/4.10/tabindex).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "valueType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "valueType": "node"
+          },
+          "label": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "1-3-A",
+            "path": "1,HTML,1,BODY,0,A",
+            "selector": "body.page-template-default > a#pojo-a11y-skip-content",
+            "boundingRect": {
+              "top": -18970,
+              "bottom": -18941,
+              "left": 0,
+              "right": 116,
+              "width": 116,
+              "height": 28
+            },
+            "snippet": "<a id=\"pojo-a11y-skip-content\" class=\"pojo-skip-link pojo-skip-content\" tabindex=\"1\" accesskey=\"s\" href=\"#content\">",
+            "nodeLabel": "Skip to content",
+            "explanation": "Fix any of the following:\n  Element has a tabindex greater than 0"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.keyboard",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]
